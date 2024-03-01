@@ -51,11 +51,9 @@
      border-right: none;   
     }
     .botao:first-child{
-        border-radius: 40px 0 0 0; 
+        border-radius: 40px 40px 0 0; 
     }
-    .botao:last-child{
-        border-radius:40px  40px 0 0; 
-    }
+    
 
 
 
