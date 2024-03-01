@@ -53,6 +53,13 @@
     .botao:first-child{
         border-radius: 40px 40px 0 0; 
     }
+    @midia screen and (min-width:768px){
+        .botoe{ 
+            displey:flex;
+        }
+  
+
+    }
     
 
 
