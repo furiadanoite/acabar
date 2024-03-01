@@ -49,8 +49,17 @@
      border-bottom: 4px solid var(--botao-ativo);
      border-left: 2px solid var(--botao-ativo);
      border-right: none;   
-
     }
+    .botao:first-child{
+        border-radius: 40px 0 0 0; 
+    }
+    .botao:last-child{
+        border-radius:40px  40px 0 0; 
+    }
+
+
+
+    
 
 
 
