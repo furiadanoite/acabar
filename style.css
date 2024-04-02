@@ -48,7 +48,8 @@
      width: 100%;
      border-bottom: 4px solid var(--botao-ativo);
      border-left: 2px solid var(--botao-ativo);
-     border-right: none;   
+     border-right: 2px solid var(--botao-ativo);
+     border-top: none;  
     }
     .botao:first-child{
         border-radius: 40px 40px 0 0; 
@@ -66,7 +67,7 @@
     border-radius:0 0 40px 40px;
 }
 .aba-conteudo.ativo{
-    font-display: block;
+    display: block;
 }
 .aba-conteudo{
     display: none;
