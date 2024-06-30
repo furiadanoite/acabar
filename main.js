@@ -49,7 +49,7 @@ return dias + "dias"
     <div class="barra"></div>
     <div class="forca fraca"></div>
     <div class="parametro-senha-textos"></div>
-</div><div class="parametro-senha textos">
+</div><div class="parametro-senha">
         <h4 class="parametro-senha__titulo">Força da senha</h4>
         <div class="barra"></div>
         <div class="forca fraca"></div>
